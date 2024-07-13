@@ -1,0 +1,7 @@
+{
+  "name": "dspy-ts-example",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "openai": "^4.52.7"
+  }
+}
